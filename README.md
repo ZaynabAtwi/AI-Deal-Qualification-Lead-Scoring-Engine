@@ -256,5 +256,9 @@ This project demonstrates how AI should be used in real estate:
 not to replace humans, but to amplify judgment, protect time, and focus effort where it matters.
 
 -----
+### Contact & Collaboration  
+    👩‍💼 Zaynab Atwi
 
-Created by: Zaynab Atwi
+ML Engineer | Researcher | Freelancer
+
+🔗 [LinkedIn](https://www.linkedin.com/in/zaynabatwi/)
